@@ -1,5 +1,6 @@
 package com.cg.vegetable.mgmt.entities;
 
+@Entity
 public class Feedback {
 
 	private int feedbackId;
