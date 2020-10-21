@@ -1,5 +1,5 @@
 package com.cg.vegetable.mgmt.entities;
-
+@Entity
 public class Customer {
 
 	private int customerId;
