@@ -1,7 +1,7 @@
 package com.cg.vegetable.mgmt.entities;
 
 import java.util.List;
-
+@Entity
 public class CartDTO {
 private int cartId;
 private int custId;
