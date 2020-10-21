@@ -1,5 +1,5 @@
 package com.cg.vegetable.mgmt.entities;
-
+@Entity
 public class Address {
 	private String flatNo;
 	private String buildingName;
