@@ -1,7 +1,7 @@
 package com.cg.vegetable.mgmt.entities;
-@Entity
+
 public class Admin {
-	
+	@Id
 	private int adminId;
 	private String name;
 	private String contactNumber;
