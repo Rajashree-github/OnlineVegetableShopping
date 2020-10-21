@@ -1,5 +1,5 @@
 package com.cg.vegetable.mgmt.entities;
-
+@Entity
 public class Admin {
 	
 	private int adminId;
